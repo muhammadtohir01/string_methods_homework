@@ -5,7 +5,7 @@ def main(s):
         s: str
     Returns:
         str: answer
-    """
+    """ 
     
     return s.title()
 print(main('googli is a search engine'))
